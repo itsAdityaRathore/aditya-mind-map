@@ -1,2 +1,6 @@
 [[Arrays]]
 [[Strings]]
+[[Queues]]
+
+[[Patterns]]
+
