@@ -4,5 +4,5 @@
 [[Stacks]]
 
 
-[[Patterns]]
+[[DSA Patterns]]
 

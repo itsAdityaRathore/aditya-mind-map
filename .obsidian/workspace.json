@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4fc4def7e9d9b256",
+        "id": "be763c9f20b17e74",
         "type": "tabs",
         "children": [
           {
-            "id": "6ba057b39049cd23",
+            "id": "49f449e2044adc87",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DSA"
+              "title": "Welcome"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA.md",
+                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of DSA"
+              "title": "Outline of Welcome"
             }
           },
           {
@@ -181,10 +181,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6ba057b39049cd23",
+  "active": "49f449e2044adc87",
   "lastOpenFiles": [
+    "2025-11-02.md",
+    "Welcome.md",
     "README.md",
     "DSA.md",
-    "Welcome.md"
+    "DSA Patterns.md"
   ]
 }
