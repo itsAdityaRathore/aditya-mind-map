@@ -11,12 +11,10 @@
             "id": "49f449e2044adc87",
             "type": "leaf",
             "state": {
-              "type": "mindmapview",
-              "state": {
-                "file": "Projects Mindmap.md"
-              },
-              "icon": "blocks",
-              "title": "Projects Mindmap"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -140,13 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects Mindmap.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Projects Mindmap"
+              "title": "Outline"
             }
           },
           {
@@ -181,12 +178,12 @@
   },
   "active": "49f449e2044adc87",
   "lastOpenFiles": [
-    "Welcome.md",
     "DSA Patterns.md",
     "Projects Mindmap.md",
+    "DSA.md",
+    "Welcome.md",
     "Untitled.md",
     "2025-11-02.md",
-    "README.md",
-    "DSA.md"
+    "README.md"
   ]
 }
