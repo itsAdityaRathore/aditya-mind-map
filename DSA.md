@@ -5,4 +5,7 @@
 
 
 [[DSA Patterns]]
+[[Templates]]
+[[Tricks]]
+[[Time Complexity]]
 

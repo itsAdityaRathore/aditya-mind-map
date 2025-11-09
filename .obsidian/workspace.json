@@ -11,10 +11,14 @@
             "id": "49f449e2044adc87",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "DSA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DSA"
             }
           }
         ]
@@ -161,7 +165,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,9 +183,12 @@
   },
   "active": "49f449e2044adc87",
   "lastOpenFiles": [
+    "Templates.md",
+    "DSA.md",
+    "Time Complexity.md",
+    "Tricks.md",
     "DSA Patterns.md",
     "Projects Mindmap.md",
-    "DSA.md",
     "Welcome.md",
     "Untitled.md",
     "2025-11-02.md",
